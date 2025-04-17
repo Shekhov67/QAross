@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OBEM</name>
+   <tag></tag>
+   <elementGuidId>c98f3479-90ed-4025-ae46-a36e0ee52cb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rb-filter-body-container.opened > div.rb-filter-list-container > ul.rb-filter-list.rb-filter-root-list > li.rb-filter-list-item > div.rb-filter-list-item-container > div.rb-filter-list-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/ul/li/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15f58207-1689-42f6-b595-671bf86d28ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-list-item-text</value>
+      <webElementGuid>b043f773-c51b-4c18-820c-3ad7b4090e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ОБЪЁМ ЭЛЕКТРОЭНЕРГИИ, внутренний оборот</value>
+      <webElementGuid>cf664c76-137b-4515-a441-903ab400c276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3e7962f07e2646e98fe700b2b75ce631&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-filter-list-container&quot;]/ul[@class=&quot;rb-filter-list rb-filter-root-list&quot;]/li[@class=&quot;rb-filter-list-item&quot;]/div[@class=&quot;rb-filter-list-item-container&quot;]/div[@class=&quot;rb-filter-list-item-text&quot;]</value>
+      <webElementGuid>3a280370-6255-4be5-98c8-3f9fb3d94e5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3e7962f07e2646e98fe700b2b75ce631']/div/div[2]/div[4]/ul/li/div/div</value>
+      <webElementGuid>150d78d8-846e-4ee1-ab4b-3953755dcd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Снять выделение'])[2]/following::div[3]</value>
+      <webElementGuid>8f3ef54b-5b03-417d-b397-6a6453b5d0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выбрать отображаемые'])[2]/following::div[4]</value>
+      <webElementGuid>1145ac7e-070c-4e36-9b76-82e76b24fe19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Объёмы реализации передачи э/э'])[1]/preceding::div[1]</value>
+      <webElementGuid>c19204db-1784-4cc1-886c-fd201b191ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[2]/preceding::div[3]</value>
+      <webElementGuid>1d6f9bbd-7e63-4858-8d0b-bd52bf29c3f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/div/div</value>
+      <webElementGuid>da845765-0152-448c-bc27-68e719596e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ОБЪЁМ ЭЛЕКТРОЭНЕРГИИ, внутренний оборот' or . = 'ОБЪЁМ ЭЛЕКТРОЭНЕРГИИ, внутренний оборот')]</value>
+      <webElementGuid>7245dce6-33e0-4fe3-99e7-ca6def594b2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

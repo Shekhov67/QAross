@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ПАО Россети</name>
+   <tag></tag>
+   <elementGuidId>74ec2545-1dd9-4641-ad7d-94f1c4c5eb71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#82b9fa4e01294e968fc7662ac3d04273 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[25]/div[2]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6782c3cb-6c9d-4278-9666-73080f63f284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;82b9fa4e01294e968fc7662ac3d04273&quot;)/div[1]</value>
+      <webElementGuid>7b328865-337a-4f8f-8037-0c5285b39141</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='82b9fa4e01294e968fc7662ac3d04273']/div</value>
+      <webElementGuid>35714e9a-a98f-44d4-9cf3-f967e9919be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[29]/div[2]/div/div</value>
+      <webElementGuid>d2984dbd-a30a-4c23-9809-f506aa3a8b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='5195de9ab2cf459e8c675d3617047a56']/div</value>
+      <webElementGuid>c99c420f-6707-43ae-a4a4-44182f46a9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div</value>
+      <webElementGuid>a7fbaa56-4e45-4d37-96a0-3ee7c28083ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

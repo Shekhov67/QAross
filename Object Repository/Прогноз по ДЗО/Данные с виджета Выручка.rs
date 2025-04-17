@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Данные с виджета Выручка</name>
+   <tag></tag>
+   <elementGuidId>6936111a-9c12-4aee-bc94-5dfb8ad7a32c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[11]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#highcharts-62g6jvm-101 > svg.highcharts-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7add838d-ec8a-4f9c-8671-03cb50eb6f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>787e1cf1-5d7a-45b3-8af8-4199bdb5f421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-root</value>
+      <webElementGuid>b9a50f10-c151-4db9-8d21-ba103ded5429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>7267d658-82b3-4507-a14d-5761ad282c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>868</value>
+      <webElementGuid>b538bd7f-a038-4159-be06-a47b745ba80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>396</value>
+      <webElementGuid>24aebed5-d0cf-4c84-a8be-13d59751f65a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 868 396</value>
+      <webElementGuid>ee265c84-8516-4941-87bd-be3573916a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created with Highcharts 9.0.129 ​29 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс.5 тыс.10 тыс.15 тыс.20 тыс.25 тыс.30 тыс.35 тыс.ПАО Россети: 28 831,33</value>
+      <webElementGuid>7af6e283-4c12-44b6-971d-0843ddde669d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-62g6jvm-101&quot;)/svg[@class=&quot;highcharts-root&quot;]</value>
+      <webElementGuid>59be8934-c1fb-445c-bf16-e5c8666cc25c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выручка по Россети Северный Кавказ (ГК) на 2023 год'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c3ff353e-426a-4ade-9e12-de4f34810607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[14]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a6e08e07-03ed-4b5a-8182-ef1db3b07ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Created with Highcharts 9.0.129 ​29 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс.5 тыс.10 тыс.15 тыс.20 тыс.25 тыс.30 тыс.35 тыс.ПАО Россети: 28 831,33' or . = 'Created with Highcharts 9.0.129 ​29 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс.5 тыс.10 тыс.15 тыс.20 тыс.25 тыс.30 тыс.35 тыс.ПАО Россети: 28 831,33')]</value>
+      <webElementGuid>4aa90130-ad73-4492-993e-def01295b9b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

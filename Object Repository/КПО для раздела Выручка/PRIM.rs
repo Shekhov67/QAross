@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PRIM</name>
+   <tag></tag>
+   <elementGuidId>b70552b5-08e6-45d9-b572-c9ab8b9b31e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rb-filter-body-container.opened > div.rb-actions-buttons-container > div.rb-filter-apply-button.button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='3e7962f07e2646e98fe700b2b75ce631']/div/div[2]/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efd167a7-cd7a-48a5-bd4e-bfd9229ea640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-apply-button button</value>
+      <webElementGuid>eecc3294-0d6c-4aa9-800b-ac581f011740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Применить</value>
+      <webElementGuid>ef750733-caa1-4737-872b-9c95364bd86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3e7962f07e2646e98fe700b2b75ce631&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-actions-buttons-container&quot;]/div[@class=&quot;rb-filter-apply-button button&quot;]</value>
+      <webElementGuid>dbd2fc2e-7a98-4033-9f12-b47d72c6eb6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3e7962f07e2646e98fe700b2b75ce631']/div/div[2]/div[5]/div[2]</value>
+      <webElementGuid>c5feac80-12b5-4f76-ae79-09f85868bbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[2]/following::div[1]</value>
+      <webElementGuid>94e9157b-0e6e-4e6b-bc66-c6db6a9c10f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Объёмы реализации передачи э/э'])[1]/following::div[3]</value>
+      <webElementGuid>9cd5756b-7727-4904-a98c-298916931edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[3]/preceding::div[16]</value>
+      <webElementGuid>83c78f76-8f55-4d74-820f-9b3e08067039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Текст'])[1]/preceding::div[24]</value>
+      <webElementGuid>b6306f51-326c-4b61-814e-b1b9283e4ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div[2]</value>
+      <webElementGuid>a9596f21-3ee1-48bf-99b6-5d8cc7522062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Применить' or . = 'Применить')]</value>
+      <webElementGuid>1f6d4868-c102-4661-96c5-205ea50e17dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

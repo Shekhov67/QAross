@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь Филиалы Россети Северный Кавказ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>502ef800-ca47-4ec7-81cb-e083dda3d0b3</testCaseGuid>
+</TestCaseEntity>

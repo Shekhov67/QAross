@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Регулярные задачи</description>
+      <initValue>'C:\\Users\\shehs\\git\\QAautotests\\Data Files\\Общий файл.xls'</initValue>
+      <name>excelFilePath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Прогноз по ДЗО</description>
+      <initValue>'C:\\Users\\shehs\\git\\QAautotests\\Data Files\\Прогноз по ДЗО виджеты 2022.xls'</initValue>
+      <name>excelPrognozDzo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1 кв., 2 кв., Июль 2023'</initValue>
+      <name>period</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Сверка ПБЭ для филиалов.</description>
+      <initValue>'C:\\Users\\Daria\\git\\QAautotests1\\Data Files\\Общий файл.xls'</initValue>
+      <name>excelFilePathFilials</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'23'</initValue>
+      <name>Test</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

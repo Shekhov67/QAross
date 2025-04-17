@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Дагэнергодеятельность</name>
+   <tag></tag>
+   <elementGuidId>4d22b3db-c61e-40a5-858f-5bb2f05b87b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4d011deacf12464e8921801fe406cd75']/div/div[2]/div[3]/ul/li/ul/li/ul/li[12]/ul/li[11]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fbd0028-b617-4d44-9ab7-4b9518715689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-list-item-text</value>
+      <webElementGuid>68b4354e-f1f3-4999-833d-bc37f1e0ca32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Дагэнерго (деят-ть с 25.06.2020)</value>
+      <webElementGuid>0230886a-9f73-4146-9a19-b74d45539b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4d011deacf12464e8921801fe406cd75&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-filter-list-container&quot;]/ul[@class=&quot;rb-filter-list rb-filter-root-list&quot;]/li[@class=&quot;rb-filter-list-item rb-filter-list-item-parent&quot;]/ul[@class=&quot;rb-filter-list&quot;]/li[@class=&quot;rb-filter-list-item rb-filter-list-item-parent&quot;]/ul[@class=&quot;rb-filter-list&quot;]/li[@class=&quot;rb-filter-list-item rb-filter-list-item-parent&quot;]/ul[@class=&quot;rb-filter-list&quot;]/li[@class=&quot;rb-filter-list-item&quot;]/div[@class=&quot;rb-filter-list-item-container&quot;]/div[@class=&quot;rb-filter-list-item-text&quot;]</value>
+      <webElementGuid>22ed1e36-dac8-47e6-8a46-ba0ecab91ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4d011deacf12464e8921801fe406cd75']/div/div[2]/div[3]/ul/li/ul/li/ul/li[12]/ul/li[11]/div/div</value>
+      <webElementGuid>d2338864-42f8-4a72-b9c7-70efad0d34b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Карачаево-Черкесскэнерго'])[1]/following::div[8]</value>
+      <webElementGuid>e3006d7b-32ec-4ea5-9442-0e3809feb9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ингушэнерго'])[1]/preceding::div[1]</value>
+      <webElementGuid>bea7e6da-d028-4656-ae79-09971ed8e6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('ОАО ', '&quot;', 'Ингушэнергосеть', '&quot;', ' (до 30.04.2013)')])[1]/preceding::div[3]</value>
+      <webElementGuid>f3e972d5-701e-4ba1-9c87-da00d27f2796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Дагэнерго (деят-ть с 25.06.2020)']/parent::*</value>
+      <webElementGuid>6cf83e09-dfdb-474c-a434-04b508aea759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/ul/li[11]/div/div</value>
+      <webElementGuid>7e8b8a15-848b-4061-9cfa-cb3813719847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Дагэнерго (деят-ть с 25.06.2020)' or . = 'Дагэнерго (деят-ть с 25.06.2020)')]</value>
+      <webElementGuid>62210752-5d33-4d6e-acb0-b962e27e5899</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

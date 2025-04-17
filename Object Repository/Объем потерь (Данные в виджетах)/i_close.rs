@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_close</name>
+   <tag></tag>
+   <elementGuidId>2c67809a-9d09-4958-8b1e-de11b447ccab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#5b695520ec3542ddafc9b4410a15dece > div.rb-filter-container.not-selectable.rb-filter-multi-selection > div.rb-filter-header-container > i.fa.fa-times.rb-filter-header-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6a78deb2fc8e416b84939195b00f5c43']/div/div/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b18c2635-8665-4a98-84d4-b04af0d08c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times rb-filter-header-close</value>
+      <webElementGuid>c4448d57-8473-498c-b417-f455f7d98b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Очистить все выбранные значения</value>
+      <webElementGuid>7ada0e08-1b64-401f-a547-0b573ef519cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5b695520ec3542ddafc9b4410a15dece&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-header-container&quot;]/i[@class=&quot;fa fa-times rb-filter-header-close&quot;]</value>
+      <webElementGuid>ddbf49e4-477b-4f26-800f-17fb2bb34ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='5b695520ec3542ddafc9b4410a15dece']/div/div/i[2]</value>
+      <webElementGuid>de428739-d060-41d5-950a-a2d906ddb1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div/div/div/i[2]</value>
+      <webElementGuid>f33cef5a-77e8-4bac-9cba-aa9259682702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Очистить все выбранные значения']</value>
+      <webElementGuid>dfb5d8e9-205e-44e5-abd3-c5e08e4bfd62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

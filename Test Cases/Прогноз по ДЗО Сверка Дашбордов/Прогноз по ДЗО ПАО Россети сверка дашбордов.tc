@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Прогноз по ДЗО ПАО Россети сверка дашбордов</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d7b0130-d8af-48b1-a3c8-237b8af35c47</testCaseGuid>
+</TestCaseEntity>

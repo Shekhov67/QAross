@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь Филиалы Россети Центр и Приволжье(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3deaa14f-738d-49fb-99a1-6808dff50007</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div togle proc</name>
+   <tag></tag>
+   <elementGuidId>7e9cb929-6873-4de3-8667-11a9e0e1eef1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#82b9fa4e01294e968fc7662ac3d04273 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[29]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5038ffaf-29ff-4ab7-9545-8bd506655842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;82b9fa4e01294e968fc7662ac3d04273&quot;)/div[1]</value>
+      <webElementGuid>e29d6971-d1b3-4d6a-9608-8026019f6dbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='82b9fa4e01294e968fc7662ac3d04273']/div</value>
+      <webElementGuid>385cd194-682b-4f74-af9a-c041d4e3ee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[29]/div[2]/div/div</value>
+      <webElementGuid>0bedf8f1-a278-409f-9a41-2dcb52573e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

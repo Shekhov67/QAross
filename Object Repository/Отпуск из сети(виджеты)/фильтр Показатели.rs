@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>фильтр Показатели</name>
+   <tag></tag>
+   <elementGuidId>1e237b86-20db-4330-893c-de1f4977e5ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='468a0814111949ab93179796b4bff5a7']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a0574d8ac65c47cf918cc366dbf63598 > div.rb-filter-container.not-selectable.rb-filter-multi-selection > div.rb-filter-header-container > div.rb-filter-header-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>138d2c5c-a7c9-4abf-8d79-dae9e5e40a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-header-text</value>
+      <webElementGuid>d79417c6-7626-4e5b-82c2-6b2d4c33d3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Факт</value>
+      <webElementGuid>0b7cfb4f-a1b4-4661-b3bf-51a4eefbbaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a0574d8ac65c47cf918cc366dbf63598&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-header-container&quot;]/div[@class=&quot;rb-filter-header-text&quot;]</value>
+      <webElementGuid>a3a45475-dd41-4cb4-8b40-aba198c47d6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a0574d8ac65c47cf918cc366dbf63598']/div/div/div</value>
+      <webElementGuid>b3332316-3d9d-4803-a38b-84a3cf4ccd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Показатель'])[1]/following::div[5]</value>
+      <webElementGuid>b4971eb2-a1f9-41dd-8dcb-7db4feac9a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[3]/following::div[11]</value>
+      <webElementGuid>e3e87734-e1d7-45c2-8d61-4fdf206fc88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выбранные значения'])[3]/preceding::div[1]</value>
+      <webElementGuid>df100229-0d21-4031-b82f-9eb1ed7a783d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div</value>
+      <webElementGuid>d3658c15-daf9-44ed-93b4-81c4c5a0125e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Факт' or . = 'Факт')]</value>
+      <webElementGuid>3756f399-3b32-460c-92df-ecefa58a94dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

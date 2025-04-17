@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть Филиалы Россети Урал(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e30f1b58-fda0-4d78-be56-9173a686687a</testCaseGuid>
+</TestCaseEntity>

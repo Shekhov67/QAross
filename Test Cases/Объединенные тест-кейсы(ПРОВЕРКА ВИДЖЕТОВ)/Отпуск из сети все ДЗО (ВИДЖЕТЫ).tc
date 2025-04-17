@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск из сети все ДЗО (ВИДЖЕТЫ)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7572aae1-1dd8-4301-bee2-5da62904646c</testCaseGuid>
+</TestCaseEntity>

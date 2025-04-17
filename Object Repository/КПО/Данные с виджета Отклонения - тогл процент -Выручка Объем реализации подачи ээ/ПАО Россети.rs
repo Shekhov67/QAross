@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ПАО Россети</name>
+   <tag></tag>
+   <elementGuidId>63271b00-f8b4-4a96-a416-4dfe40f63425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#5195de9ab2cf459e8c675d3617047a56 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[13]/div[2]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a2eef55-0a9a-41d4-8833-115ef8f4a15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5195de9ab2cf459e8c675d3617047a56&quot;)/div[1]</value>
+      <webElementGuid>6f85a3c7-c7f1-4652-a808-55d417915d3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='5195de9ab2cf459e8c675d3617047a56']/div</value>
+      <webElementGuid>b5731dda-084c-474d-b7a1-bce17db1c115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div</value>
+      <webElementGuid>70f5c23e-3c58-45cd-8d2d-1b8526702f7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть Филиалы Россети Центр и Приволжье(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>210dc952-e6dd-4377-9676-50e7cc8dfa82</testCaseGuid>
+</TestCaseEntity>

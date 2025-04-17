@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск из сети РОССЕТИ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5bcbdd8e-d9bc-4e15-a321-0877fcbcd94c</testCaseGuid>
+</TestCaseEntity>

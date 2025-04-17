@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть Филиалы Россети Центр</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65970e41-2d03-402a-9f1f-ade3d94dda05</testCaseGuid>
+</TestCaseEntity>

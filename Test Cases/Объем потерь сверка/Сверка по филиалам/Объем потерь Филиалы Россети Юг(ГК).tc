@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь Филиалы Россети Юг(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bdec33a-1a66-4419-a197-957d24756d2d</testCaseGuid>
+</TestCaseEntity>

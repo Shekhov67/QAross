@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ВСЕ в фильтре показатели</name>
+   <tag></tag>
+   <elementGuidId>cd206a9b-7fde-4682-ada8-070fde2f2669</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times.rb-filter-header-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='95dfd16b3575491e86e1c9681567cb94']/div/div/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0f05ca55-d700-45a3-957a-45dd9b0b02b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times rb-filter-header-close</value>
+      <webElementGuid>ceaecc83-12b6-4827-b876-6bf51b91a34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Очистить все выбранные значения</value>
+      <webElementGuid>786c3152-e2bd-4471-8132-f2c8adae96d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5920259612ce4f8eae3df3f40063981e&quot;)/div[@class=&quot;rb-filter-container not-selectable&quot;]/div[@class=&quot;rb-filter-header-container&quot;]/i[@class=&quot;fa fa-times rb-filter-header-close&quot;]</value>
+      <webElementGuid>06cc5858-81e8-4e79-8846-da7133058ca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='5920259612ce4f8eae3df3f40063981e']/div/div/i[2]</value>
+      <webElementGuid>c51551ee-b891-4db2-801e-7594da36827f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>fc5e99bf-7daa-47b7-9bc5-2a5976eb4488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Очистить все выбранные значения']</value>
+      <webElementGuid>6ec57e1a-fda1-4f5a-ade4-33149af3b888</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

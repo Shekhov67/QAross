@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>скролл</name>
+   <tag></tag>
+   <elementGuidId>58c6b177-ceb6-4cb7-abfd-adc45c28321c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#widget-header-4310927579624a9e8d4d0ec28c73a3fc > a.va-widget-header</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Прогноз на дату' or . = ' Прогноз на дату')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-header-6b3d1ecac17845969e4b66cda4dd44e0']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30f88699-b132-40f5-b89b-01b13203b84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>va-widget-header</value>
+      <webElementGuid>d22b5674-f0d1-4450-aade-4701cbd17a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: title.text(), attr: title.linkEnabled() &amp;&amp; title.link().trim() ? { href: title.link().indexOf('http') == 0 ? title.link().trim() : '//' + title.link().trim() } : { href: false }, style: { 'text-align': title.textStyle.alignString(), color: title.textStyle.color(), 'font-size': title.textStyle.fontSize() + 'px', 'font-family': title.textStyle.fontFamily(), 'font-weight': title.textStyle.isBold() ? 'bold' : 'normal', 'font-style': title.textStyle.isItalic() ? 'italic' : 'normal', 'line-height': title.textStyle.lineHeight(), cursor: title.linkEnabled() ? 'pointer' : 'default' }</value>
+      <webElementGuid>b432fb0a-9854-40d4-b2bd-9d06dad18f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Прогноз на дату</value>
+      <webElementGuid>fb42f17b-54f8-4f64-869a-9c10edaaa30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-header-4310927579624a9e8d4d0ec28c73a3fc&quot;)/a[@class=&quot;va-widget-header&quot;]</value>
+      <webElementGuid>c797590d-00a2-4369-83a3-68b54e7edb75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-header-4310927579624a9e8d4d0ec28c73a3fc']/a</value>
+      <webElementGuid>2191b8fe-f9d7-4273-b8f7-7fc2de703112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Прогноз на дату')]</value>
+      <webElementGuid>d43720a3-5052-4db2-b0bc-262d6edf665f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[17]/following::a[1]</value>
+      <webElementGuid>c1f370dc-1a6d-41c3-8978-37f273311add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ПАО Россети'])[7]/following::a[1]</value>
+      <webElementGuid>f1750f50-d089-429b-8d4a-52492cf93a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ноябрь'])[1]/preceding::a[1]</value>
+      <webElementGuid>327b91bc-069a-4280-afc5-5f1b08b9fe5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Включить'])[3]/preceding::a[1]</value>
+      <webElementGuid>143c8cca-e636-4b34-93cf-7425d4dc74a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Прогноз на дату']/parent::*</value>
+      <webElementGuid>f3d8bf87-8352-421a-a809-74d5d2c4abb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/div/a</value>
+      <webElementGuid>1ff65053-9ab6-4504-aa36-514f00551b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Прогноз на дату' or . = ' Прогноз на дату')]</value>
+      <webElementGuid>85b3c77d-b405-4b49-93e7-76a61cce1d26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

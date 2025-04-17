@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь Филиалы Россети Центр</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e0504c8-20f5-494d-9cc9-b9667435b25c</testCaseGuid>
+</TestCaseEntity>

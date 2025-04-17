@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть Филиалы Россети Сибирь(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f038e97-8037-41ed-a5b7-9f0d10d8b52e</testCaseGuid>
+</TestCaseEntity>

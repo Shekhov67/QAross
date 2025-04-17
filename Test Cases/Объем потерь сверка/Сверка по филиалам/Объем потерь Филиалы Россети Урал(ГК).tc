@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь Филиалы Россети Урал(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53e82fc9-040f-4aab-8260-af1b828f153c</testCaseGuid>
+</TestCaseEntity>

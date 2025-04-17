@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Фильтр Месяц</name>
+   <tag></tag>
+   <elementGuidId>d7ee2368-db58-49ec-b222-5da26913b380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='30f047cb33054dc788aacfc3536ef47c']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#30f047cb33054dc788aacfc3536ef47c > div.rb-filter-container.not-selectable > div.rb-filter-header-container > div.rb-filter-header-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ab9de15-1ac0-4bed-93eb-7a060c680291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-header-text</value>
+      <webElementGuid>a20a90a8-af99-4991-936d-f9e56ee7a2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Февраль</value>
+      <webElementGuid>168a3e5c-b930-45a5-9551-c5f89d5579ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;30f047cb33054dc788aacfc3536ef47c&quot;)/div[@class=&quot;rb-filter-container not-selectable&quot;]/div[@class=&quot;rb-filter-header-container&quot;]/div[@class=&quot;rb-filter-header-text&quot;]</value>
+      <webElementGuid>a4ee0cc7-0e4c-468d-a751-c0f134ee6aa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='30f047cb33054dc788aacfc3536ef47c']/div/div/div</value>
+      <webElementGuid>f084cec8-c048-43a1-bfa3-28ed17b95f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Прогноз на месяц'])[1]/following::div[5]</value>
+      <webElementGuid>11c3b5de-dcdd-42e3-816e-dbf8942b0b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[17]/following::div[11]</value>
+      <webElementGuid>38312c89-344d-4e4e-b695-bf800066f780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Январь'])[1]/preceding::div[1]</value>
+      <webElementGuid>2b88c15c-1054-4b57-af85-a0cb3189ac1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/div[2]/div/div/div/div</value>
+      <webElementGuid>d6b9e397-2632-4083-a2fd-2585b4160382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Февраль' or . = 'Февраль')]</value>
+      <webElementGuid>7f47128f-33a7-4583-a7d1-e6083bbaf8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='30f047cb33054dc788aacfc3536ef47c']/div/div</value>
+      <webElementGuid>d96b6d8d-34bf-4ae3-bf06-e472472212cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Прогноз на месяц'])[1]/following::div[4]</value>
+      <webElementGuid>96d8d96f-843d-40f7-8489-2dbb9c98bc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[17]/following::div[10]</value>
+      <webElementGuid>59990c7c-0366-4626-aea1-a1929a3a9d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Включить'])[3]/preceding::div[2]</value>
+      <webElementGuid>48af5fcb-cb2e-4c45-a281-502e959d4f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/div[2]/div/div/div</value>
+      <webElementGuid>92e803c3-0d4f-4d48-bba8-9e12c9fea168</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

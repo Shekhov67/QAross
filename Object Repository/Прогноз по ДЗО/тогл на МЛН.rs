@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>тогл на МЛН</name>
+   <tag></tag>
+   <elementGuidId>94b3af09-9cbd-4b5f-ae6b-1f624f72737a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#03c58140a4294e2d84b0d2f0e12cef6a > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='08098a64e5164f0caf8dfa797f7c467d']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4723493-bc61-4606-b6b3-400536dd4116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;03c58140a4294e2d84b0d2f0e12cef6a&quot;)/div[1]</value>
+      <webElementGuid>d9f7db0e-dff9-4761-b62a-c968755a1229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='03c58140a4294e2d84b0d2f0e12cef6a']/div</value>
+      <webElementGuid>c61dd7e7-5e4f-4a42-a7eb-7653c3d97f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div/div</value>
+      <webElementGuid>426ad600-1509-4873-8568-402b80e603e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

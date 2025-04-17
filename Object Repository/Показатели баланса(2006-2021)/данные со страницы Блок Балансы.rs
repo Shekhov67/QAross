@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>данные со страницы Блок Балансы</name>
+   <tag></tag>
+   <elementGuidId>35a68af8-85f7-440f-8947-48e6f1b4a6bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[8]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#highcharts-z9x4t40-0 > svg.highcharts-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>740e730e-140f-4d40-8b9d-abd325252f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>67849e5c-a47c-4bea-96aa-c21c9db17517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-root</value>
+      <webElementGuid>c9385b65-db12-44d3-9ac0-70a3eb95a95d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3d9699a0-515c-4b67-a6f7-7227858e9401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1867</value>
+      <webElementGuid>23a1b3f1-ed75-4c25-a9dd-b4eea4d12995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>759</value>
+      <webElementGuid>a4d460f7-e7f5-4cc8-9c25-55e86482a5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1867 759</value>
+      <webElementGuid>55afdb2b-ac17-4cb8-a914-4c349e57221d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created with Highcharts 9.0.1725 121 ​725 121 768 149 ​768 149 788 127 ​788 127 727 488 ​727 488 742 754 ​742 754 775 496 ​775 496 792 291 ​792 291 788 999 ​788 999 789 162 ​789 162 797 420 ​797 420 822 045 ​822 045 824 184 ​824 184 836 393 ​836 393 834 939 ​834 939 803 534 ​803 534 860 441 ​860 441 864 856 ​864 856 11.39 ​11.39 10.43 ​10.43 10.05 ​10.05 10.83 ​10.83 10.88 ​10.88 10.53 ​10.53 9.86 ​9.86 9.64 ​9.64 9.51 ​9.51 9.64 ​9.64 9.65 ​9.65 9.22 ​9.22 8.95 ​8.95 8.57 ​8.57 8.64 ​8.64 8.58 ​8.58 8.69 ​8.69 Отпуск в сетьУровень потерь, %200620072008200920102011201220132014201520162017201820192020202120220 100 000 200 000 300 000 400 000 500 000 600 000 700 000 800 000 900 000 1 000 000 8.258.58.7599.259.59.751010.2510.510.751111.2511.511.752006: 11,39</value>
+      <webElementGuid>e0279c8a-07e4-4006-81f0-6fdb398911d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-z9x4t40-0&quot;)/svg[@class=&quot;highcharts-root&quot;]</value>
+      <webElementGuid>389e36d1-1852-4500-8f69-19d4878e7dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отпуск электроэнергии в сеть'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>5707b268-0bdc-429e-a7cf-aaea3676a0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[8]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b2ba7f00-5497-4c6c-a938-81e051a135c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Created with Highcharts 9.0.1725 121 ​725 121 768 149 ​768 149 788 127 ​788 127 727 488 ​727 488 742 754 ​742 754 775 496 ​775 496 792 291 ​792 291 788 999 ​788 999 789 162 ​789 162 797 420 ​797 420 822 045 ​822 045 824 184 ​824 184 836 393 ​836 393 834 939 ​834 939 803 534 ​803 534 860 441 ​860 441 864 856 ​864 856 11.39 ​11.39 10.43 ​10.43 10.05 ​10.05 10.83 ​10.83 10.88 ​10.88 10.53 ​10.53 9.86 ​9.86 9.64 ​9.64 9.51 ​9.51 9.64 ​9.64 9.65 ​9.65 9.22 ​9.22 8.95 ​8.95 8.57 ​8.57 8.64 ​8.64 8.58 ​8.58 8.69 ​8.69 Отпуск в сетьУровень потерь, %200620072008200920102011201220132014201520162017201820192020202120220 100 000 200 000 300 000 400 000 500 000 600 000 700 000 800 000 900 000 1 000 000 8.258.58.7599.259.59.751010.2510.510.751111.2511.511.752006: 11,39' or . = 'Created with Highcharts 9.0.1725 121 ​725 121 768 149 ​768 149 788 127 ​788 127 727 488 ​727 488 742 754 ​742 754 775 496 ​775 496 792 291 ​792 291 788 999 ​788 999 789 162 ​789 162 797 420 ​797 420 822 045 ​822 045 824 184 ​824 184 836 393 ​836 393 834 939 ​834 939 803 534 ​803 534 860 441 ​860 441 864 856 ​864 856 11.39 ​11.39 10.43 ​10.43 10.05 ​10.05 10.83 ​10.83 10.88 ​10.88 10.53 ​10.53 9.86 ​9.86 9.64 ​9.64 9.51 ​9.51 9.64 ​9.64 9.65 ​9.65 9.22 ​9.22 8.95 ​8.95 8.57 ​8.57 8.64 ​8.64 8.58 ​8.58 8.69 ​8.69 Отпуск в сетьУровень потерь, %200620072008200920102011201220132014201520162017201820192020202120220 100 000 200 000 300 000 400 000 500 000 600 000 700 000 800 000 900 000 1 000 000 8.258.58.7599.259.59.751010.2510.510.751111.2511.511.752006: 11,39')]</value>
+      <webElementGuid>6e6e6362-ca34-42ec-87e0-dafaffbb1f67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

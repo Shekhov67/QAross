@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть Филиалы Россети Северный Кавказ(ГК)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbfc7df1-ce8d-490e-a474-3cc991fa1f6b</testCaseGuid>
+</TestCaseEntity>

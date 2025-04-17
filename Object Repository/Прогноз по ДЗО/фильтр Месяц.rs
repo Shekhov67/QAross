@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>фильтр Месяц</name>
+   <tag></tag>
+   <elementGuidId>9bf61819-6dcc-4fc1-b2ae-0cac9cd62c26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6b3d1ecac17845969e4b66cda4dd44e0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#4310927579624a9e8d4d0ec28c73a3fc > div.rb-filter-container.not-selectable > div.rb-filter-header-container > div.rb-filter-header-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0fcba853-ac2b-4e43-bb61-b24f15c906bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-header-text</value>
+      <webElementGuid>342e0f1c-c818-4f8d-bc07-edda4761b5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ноябрь</value>
+      <webElementGuid>460fa23a-2237-4247-bf98-b6dd4f032f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4310927579624a9e8d4d0ec28c73a3fc&quot;)/div[@class=&quot;rb-filter-container not-selectable&quot;]/div[@class=&quot;rb-filter-header-container&quot;]/div[@class=&quot;rb-filter-header-text&quot;]</value>
+      <webElementGuid>d2f56491-c859-4d5d-9d6f-d9e9a8bcce88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4310927579624a9e8d4d0ec28c73a3fc']/div/div/div</value>
+      <webElementGuid>d5d5c033-d374-426f-af1e-5ad03bd093af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Прогноз на дату'])[1]/following::div[5]</value>
+      <webElementGuid>ef75566b-1fc9-4d55-8f6b-4f06043d9219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[17]/following::div[11]</value>
+      <webElementGuid>79f7bdd3-8c28-4725-a7df-446f541a8e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Включить'])[3]/preceding::div[1]</value>
+      <webElementGuid>6b5311e2-ba83-4ed4-a6e6-50401b35ebae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/div[2]/div/div/div/div</value>
+      <webElementGuid>08b580b5-57c6-4ff2-9288-22b9c91a27e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ноябрь' or . = 'Ноябрь')]</value>
+      <webElementGuid>4b6285ad-5bdf-499f-9ffe-7a3cafa74ff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Данные с виджета Динамика</name>
+   <tag></tag>
+   <elementGuidId>f2f4c1ac-91c4-498a-a556-3a5da1280618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[12]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#highcharts-xsgigrk-88 > svg.highcharts-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>68947336-1277-4659-af9e-f4deccfb12f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>3acfb210-393e-4fe2-b138-a1ab7eb9822a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-root</value>
+      <webElementGuid>c71f10b4-ae79-4921-982c-3cd6d99930fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2f5f83b7-198e-4698-ab8e-7cdb5369e72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>878</value>
+      <webElementGuid>07bd871f-57df-4d1e-a7c0-705ff847eb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>388</value>
+      <webElementGuid>07bbd641-efe5-4162-97e9-406cf3355d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 878 388</value>
+      <webElementGuid>d67a32ef-fac4-42e0-ad93-25bea2e7e966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created with Highcharts 9.0.117 ​17 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс. кВтч.5 тыс. кВтч.10 тыс. кВтч.15 тыс. кВтч.20 тыс. кВтч.ПАО Россети: 16 625,18</value>
+      <webElementGuid>87df57d4-0a0b-42fb-bf7b-c0c81f3af1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-xsgigrk-88&quot;)/svg[@class=&quot;highcharts-root&quot;]</value>
+      <webElementGuid>4f448b1c-71b9-48e2-be90-05389d991500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Динамика электропотребления, млн. кВт.ч. по Россети Северный Кавказ (ГК) на 2023 год'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1eb4de91-df5b-49fb-be38-601f9c5a4f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[12]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2f35de65-fafa-480d-ad72-091c6ee8acfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Created with Highcharts 9.0.117 ​17 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс. кВтч.5 тыс. кВтч.10 тыс. кВтч.15 тыс. кВтч.20 тыс. кВтч.ПАО Россети: 16 625,18' or . = 'Created with Highcharts 9.0.117 ​17 Ожидаемое (прогноз до конца года)ПАО Россети0 тыс. кВтч.5 тыс. кВтч.10 тыс. кВтч.15 тыс. кВтч.20 тыс. кВтч.ПАО Россети: 16 625,18')]</value>
+      <webElementGuid>91804469-ad6a-4097-a5b4-8790cf31d744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

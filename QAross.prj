@@ -6,11 +6,12 @@
    <UUID>aed20193-c67c-4319-9973-2dc50978d9b5</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.5</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.5</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\shehs\OneDrive\Desktop\Новая папка\QAross\QAross.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

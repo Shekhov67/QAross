@@ -12,35 +12,35 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>e37bd9c4-8ceb-4cbd-9873-6da386ecc734</testSuiteGuid>
    <testCaseLink>
-      <guid>599ca37a-69c5-4c12-bfe4-187b6e6c2b6c</guid>
+      <guid>ed92b83e-f54a-44d7-bd3f-a338429906a6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/КПО - ВСЕ ДЗО тогл МЛН(ВИДЖЕТЫ)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d76c35a7-a6d6-456a-bffc-38b53272ce96</guid>
+      <guid>3fb524d2-76e1-4a38-8114-b4a83935a662</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/КПО - ВСЕ ДЗО тогл ПРОЦЕНТ(ВИДЖЕТЫ)</testCaseId>
+      <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/КПО - ВСЕ ДЗО тогл ПРОЦ(ВИДЖЕТЫ)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b87011dd-a74c-4213-be5c-7d899528c768</guid>
+      <guid>0ca9ae08-5863-4bfd-96ae-76a643bf1c08</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/Объем потерь все ДЗО(ВИДЖЕТЫ)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>17d9412a-01e6-49ae-990a-3330ae5ac2ce</guid>
+      <guid>20116af5-fc10-4c05-b306-a0a3eb0eb0e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/Отпуск в сеть (ВИДЖЕТЫ)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b77b9959-27cc-485b-b4d8-bc46af314642</guid>
+      <guid>8e83020e-39ba-4ace-bb55-5e2b74a79d4e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Объединенные тест-кейсы(ПРОВЕРКА ВИДЖЕТОВ)/Отпуск из сети все ДЗО (ВИДЖЕТЫ)</testCaseId>

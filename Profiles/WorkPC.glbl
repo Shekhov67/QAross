@@ -6,12 +6,12 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Регулярные задачи</description>
-      <initValue>'C:\\Users\\shekhov-aa\\Desktop\\Автотесты\\QAautotests\\Data Files\\Общий файл.xls'</initValue>
+      <initValue>'C:\\Users\\shekhov-aa\\git\\QAross\\Data Files\\Общий файл.xls'</initValue>
       <name>excelFilePath</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Прогноз по ДЗО</description>
-      <initValue>'C:\\Users\\shekhov-aa\\Desktop\\Автотесты\\QAautotests\\Data Files\\Прогноз по ДЗО виджеты 2022.xls'</initValue>
+      <initValue>'C:\\Users\\shekhov-aa\\git\\QAross\\Data Files\\Прогноз по ДЗО виджеты 2022.xls'</initValue>
       <name>excelPrognozDzo</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Сверка ПБЭ для филиалов</description>
-      <initValue>'C:\\Users\\shekhov-aa\\Desktop\\Автотесты\\QAautotests\\Data Files\\Общий файл.xls'</initValue>
+      <initValue>'C:\\Users\\shekhov-aa\\git\\QAross\\Data Files\\Общий файл.xls'</initValue>
       <name>excelFilePathFilials</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

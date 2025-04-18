@@ -629,7 +629,7 @@ static def WriteToExcel(def a, def b, def v, def dZO) {
     
     println(year)
 
-    String dashboardName = 'Отпуск в сеть'
+    String dashboardName = 'Отпуск в сеть(Сверка дашбордов)'
 
     String page1 = 'Данные не совпадают'
 
@@ -673,7 +673,7 @@ static def WriteToExcel2(def pageBR, def pageBB, def dZO, def v) {
 
     println(year)
 
-    String dashboardName = 'Отпуск в сеть'
+    String dashboardName = 'Отпуск в сеть(Сверка дашбордов)'
 
     String page1
 

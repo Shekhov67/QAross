@@ -15,14 +15,14 @@
       <guid>a2ab666b-9a66-4668-9ce1-df091a52b6b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Отпуск в сеть сверка/Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов</testCaseId>
+      <testCaseId>Test Cases/Отпуск в сеть сверка/Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов ver2025</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>899cb71f-2577-49e5-b8b8-045a83eb7ed8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Объем потерь сверка/Объем потерь ВСЕ ДЗО - с проверкой филиалов</testCaseId>
+      <testCaseId>Test Cases/Объем потерь сверка/Объем потерь ВСЕ ДЗО - с проверкой филиалов - ВЕРНО</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

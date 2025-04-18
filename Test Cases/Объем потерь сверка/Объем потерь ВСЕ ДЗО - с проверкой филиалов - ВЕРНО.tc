@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Объем потерь ВСЕ ДЗО - с проверкой филиалов - ВЕРНО</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>375c99c2-074a-477e-b889-6a9a3167afdf</testCaseGuid>
+</TestCaseEntity>

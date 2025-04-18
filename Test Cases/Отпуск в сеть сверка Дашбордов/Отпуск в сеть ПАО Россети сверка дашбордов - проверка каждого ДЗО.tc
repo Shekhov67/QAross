@@ -4,5 +4,6 @@
    <name>Отпуск в сеть ПАО Россети сверка дашбордов - проверка каждого ДЗО</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>279459d7-f1c9-4117-9a57-623c929fea2b</testCaseGuid>
 </TestCaseEntity>

@@ -321,8 +321,7 @@ static void DZOChange2(def dZO, def dZOBR, def dZOBB) {
     if (dZO == 'Россети Сибирь(ГК)') {
         println(dZO)
 
-        WebUI.scrollToElement(findTestObject('Отпуск в сеть сверка/Данные со страницы Отпуск в сеть/Отпуск в сеть Россети Сибирь(ГК)'), 
-            30)
+        WebUI.scrollToElement(findTestObject('Отпуск в сеть Балансы/sibir'), 30)
 
         WebUI.click(findTestObject('Отпуск в сеть Балансы/sibir'))
     }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов ver2025</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce8fb217-704f-4438-8086-89f819f48f2c</testCaseGuid>
+</TestCaseEntity>

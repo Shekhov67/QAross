@@ -337,6 +337,10 @@ static def Testing1(def page) {
 
     WebUI.click(findTestObject('КПО/Россети Северный-Кавказ(ГК)'))
 
+    WebUI.scrollToElement(findTestObject('КПО/Севкавказэнерго'), 30)
+
+    WebUI.scrollToElement(findTestObject('КПО/скролл Заголовок дашборда'), 30)
+
     WebUI.click(findTestObject('КПО/Севкавказэнерго'))
 
     WebUI.click(findTestObject('КПО/применить в фильтре ДЗО'))

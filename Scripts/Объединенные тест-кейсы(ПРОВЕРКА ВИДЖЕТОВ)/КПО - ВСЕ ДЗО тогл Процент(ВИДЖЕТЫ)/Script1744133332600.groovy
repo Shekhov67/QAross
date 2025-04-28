@@ -1223,11 +1223,11 @@ static def SelectDate() {
 
     WebUI.click(findTestObject('КПО/Page_Visiology Platform/раскрыть 2025 год'), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.scrollToElement(findTestObject('КПО/Page_Visiology Platform/раскрыть 1 квартал 2025 года'), 30)
+    WebUI.scrollToElement(findTestObject('КПО/Page_Visiology Platform/выбрать 1 квартал 2025 года'), 30)
 
     WebUI.scrollToElement(findTestObject('КПО/скролл Фильтр дата'), 30)
 
-    WebUI.click(findTestObject('КПО/Page_Visiology Platform/раскрыть 1 квартал 2025 года'))
+    WebUI.click(findTestObject('КПО/Page_Visiology Platform/выбрать 1 квартал 2025 года'))
 
     WebUI.scrollToElement(findTestObject('КПО/Page_Visiology Platform/Январь 2025 года'), 30)
 

@@ -870,23 +870,15 @@ static def SelectDate(def file, def page, def path) {
 
     WebUI.scrollToElement(findTestObject('Отпуск в сеть сверка/2025 год'), 30)
 
-    WebUI.scrollToElement(findTestObject('Отпуск в сеть(виджеты)/скрол'), 30)
+    WebUI.scrollToElement(findTestObject('Общие в сеть/скролл до фильтра дата'), 30)
 
     WebUI.click(findTestObject('Отпуск в сеть сверка/2025 год'), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.scrollToElement(findTestObject('Отпуск в сеть сверка/1 квартал'), 30)
 
-    WebUI.scrollToElement(findTestObject('Отпуск в сеть(виджеты)/скрол'), 30)
+    WebUI.scrollToElement(findTestObject('Общие в сеть/скролл до фильтра дата'), 30)
 
     WebUI.click(findTestObject('Отпуск в сеть сверка/1 квартал'))
-
-    WebUI.scrollToElement(findTestObject('Отпуск в сеть сверка/Январь'), 30)
-
-    WebUI.scrollToElement(findTestObject('Отпуск в сеть(виджеты)/скрол'), 30)
-
-    WebUI.click(findTestObject('Отпуск в сеть сверка/Январь'))
-
-    WebUI.click(findTestObject('Отпуск в сеть сверка/Февраль'))
 
     WebUI.click(findTestObject('Отпуск в сеть(виджеты)/применить в фильтре Дата'))
 

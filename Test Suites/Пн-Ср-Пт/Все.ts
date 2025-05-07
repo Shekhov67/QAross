@@ -22,7 +22,7 @@
       <guid>dbea67a8-2f8d-44b1-8cde-1b1af3743dce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Отпуск в сеть сверка/Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов ver2025</testCaseId>
+      <testCaseId>Test Cases/Отпуск в сеть сверка/Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Дата для сверки</name>
+   <name>Россети Центр - Copy</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fce5eaee-ae16-44ba-88b1-ad377d40a2aa</testCaseGuid>
+   <testCaseGuid>a2c6a420-13c2-40fe-bcfd-fcbe10cb361c</testCaseGuid>
 </TestCaseEntity>

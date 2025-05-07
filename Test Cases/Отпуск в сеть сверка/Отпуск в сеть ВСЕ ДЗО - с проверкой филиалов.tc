@@ -4,5 +4,6 @@
    <name>Отпуск в сеть ВСЕ ДЗО - с проверкой филиалов</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>cb23b7c6-c363-4ab2-907c-f71b87ed1489</testCaseGuid>
 </TestCaseEntity>

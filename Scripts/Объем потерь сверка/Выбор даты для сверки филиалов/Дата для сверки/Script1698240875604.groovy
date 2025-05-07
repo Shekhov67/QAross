@@ -25,6 +25,8 @@ def selectDate = SelectDate()
 static def SelectDate() {
     WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/i_close'))
 
+    WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/i_close'))
+
     WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/фильтр Дата'))
 
     WebUI.scrollToElement(findTestObject('Объем потерь сверка/2025 год'), 30)
@@ -33,15 +35,11 @@ static def SelectDate() {
 
     WebUI.click(findTestObject('Объем потерь сверка/2025 год'), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/1 квартал'), 30)
+    WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/1 квартал 2023'), 30)
 
     WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/скролл'), 30)
 
-    WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/1 квартал'), FailureHandling.CONTINUE_ON_FAILURE)
-
-    WebUI.click(findTestObject('Объем потерь сверка/Январь'), FailureHandling.CONTINUE_ON_FAILURE)
-
-    WebUI.click(findTestObject('Отпуск в сеть сверка/Февраль'))
+    WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/выбрать 1 квартал 2025'), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/Применить в фильтре Дата'))
 }

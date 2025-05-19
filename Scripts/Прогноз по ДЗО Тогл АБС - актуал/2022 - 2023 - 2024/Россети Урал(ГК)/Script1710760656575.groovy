@@ -165,23 +165,12 @@ static def ScanErrors(def page) {
 }
 
 static def SelectDate() {
-    WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Год'))
-
-    WebUI.click(findTestObject('Прогноз по ДЗО/выбрать 2022'))
-
-    def selectMouth = SelectMouth()
-
-    WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Год'))
-
-    WebUI.click(findTestObject('Прогноз по ДЗО/выбрать 2023'))
-
-    selectMouth = SelectMouth()
-
+    
     WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Год'))
 
     WebUI.click(findTestObject('Прогноз по ДЗО/выбрать 2024'))
 
-    selectMouth = SelectMouth()
+    def selectMouth = SelectMouth()
 
     WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Год'))
 

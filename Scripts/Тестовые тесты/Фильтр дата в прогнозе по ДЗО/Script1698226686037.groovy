@@ -34,6 +34,18 @@ WebUI.click(findTestObject('Прогноз по ДЗО/Февраль'))
 
 variant = varianttFilter()
 
+WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Месяц'))
+
+WebUI.click(findTestObject('Прогноз по ДЗО/Март'))
+
+variant = varianttFilter()
+
+WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Месяц'))
+
+WebUI.click(findTestObject('Прогноз по ДЗО/Апрель'))
+
+variant = varianttFilter()
+
 def varianttFilter() {
     WebUI.click(findTestObject('Прогноз по ДЗО/фильтр Тип показателя откланений'))
 

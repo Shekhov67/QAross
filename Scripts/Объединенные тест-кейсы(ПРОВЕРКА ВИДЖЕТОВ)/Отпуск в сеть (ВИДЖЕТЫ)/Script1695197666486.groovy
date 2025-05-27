@@ -1263,6 +1263,10 @@ static def SelectDate() {
 
     WebUI.click(findTestObject('Отпуск в сеть сверка/1 квартал'))
 
+    WebUI.click(findTestObject('Отпуск в сеть сверка/раскрыть 2 квартал 2025'))
+
+    WebUI.click(findTestObject('Отпуск в сеть сверка/Апрель'))
+
     WebUI.click(findTestObject('Отпуск в сеть(виджеты)/применить в фильтре Дата'))
 }
 

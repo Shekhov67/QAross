@@ -99,7 +99,7 @@ static def SelectDate() {
 
     WebUI.click(findTestObject('Отпуск в сеть(виджеты)/выбрать 2 квартал 2023'))
 
-    WebUI.click(findTestObject('Отпуск в сеть сверка/раскрыть 3 квартал 2023'))
+    WebUI.click(findTestObject('Отпуск в сеть сверка/раскрыть 2 квартал 2025'))
 
     WebUI.click(findTestObject('Отпуск в сеть сверка/выбрать июль'))
 

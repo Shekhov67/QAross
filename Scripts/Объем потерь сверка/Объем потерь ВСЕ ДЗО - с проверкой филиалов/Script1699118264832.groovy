@@ -119,11 +119,11 @@ static def SelectDate() {
 
     WebUI.click(findTestObject('Объем потерь сверка/2025 год'), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/1 квартал'), 30)
+    WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/раскрыть 2 квартал'), 30)
 
     WebUI.scrollToElement(findTestObject('Объем потерь (Данные в виджетах)/скролл'), 30)
 
-    WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/1 квартал'), FailureHandling.CONTINUE_ON_FAILURE)
+    WebUI.click(findTestObject('Объем потерь (Данные в виджетах)/раскрыть 2 квартал'), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.click(findTestObject('Объем потерь сверка/Январь'), FailureHandling.CONTINUE_ON_FAILURE)
 
